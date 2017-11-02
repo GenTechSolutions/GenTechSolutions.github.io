@@ -1,0 +1,4 @@
+AuthUserFile ..GenTechSolutions/.htpasswd
+AuthType Basic
+AuthName "Under Constuction"
+Require valid-user
